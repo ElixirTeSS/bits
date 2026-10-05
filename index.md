@@ -6,6 +6,8 @@ The [Institute for Research Software](/projects/ssi/) runs the [Research Softwar
 
 Round 2 awarded approximately £2.73 million to 19 projects assessed on their vision and potential impact, feasibility and approach, and capability to deliver. The portfolio spans research supported by all seven UK research councils and includes software written in languages such as Python, R, C++, Fortran, and JavaScript. 
 
+![Logo for Research Software Maintenance Fund](assets/img/rsmf_logo.png)
+
 ## Project overview
 
 **Team**: Phil Reed, Project Lead; Carole Goble, Project Co-Lead; Finn Bacall, Research Software Engineer; and Munazah Andrabi, Research and Innovation Associate (University of Manchester). Maria Doyle, International Project Co-Lead (University of Limerick). 
