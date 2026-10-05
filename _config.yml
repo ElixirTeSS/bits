@@ -1,13 +1,13 @@
-title: Website title
+title: Bioconductor into TeSS and Beyond (BITS) project
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Website title
+topnav_title: Bioconductor into TeSS and Beyond (BITS) project
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
+description: "Automating FAIR Training Metadata Pipelines: Bioconductor into TeSS and Beyond (BITS)"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@7.0.0
 
 exclude:
   - README.md
