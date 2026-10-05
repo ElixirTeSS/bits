@@ -47,17 +47,17 @@ theme_variables:
   # toc:
   #   min_headings: 2
   #   headings: 'h2'
-   topnav:
-     theme: dark
+  topnav:
+    theme: dark
     # brand_logo: assets/img/main_logo.svg
     # github: true
     # twitter: false
     # bluesky: false
     # linkedin: false
     # fosstodon: false
-   theme_color: D2232A
-   fonts:
-     - https://fonts.google.com/specimen/Work+Sans?preview.script=Latn
+  theme_color: d2232a
+  fonts:
+      - https://fonts.google.com/specimen/Work+Sans?preview.script=Latn
 
 plugins:
   - elixir-toolkit-theme-plugins
