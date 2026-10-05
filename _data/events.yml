@@ -1,7 +1,7 @@
-- name: 
-  startDate: 
-  startTime: 
-  endDate: 
-  endTime: 
-  description: 
-  location: 
+- name: BITS kick-off
+  startDate: 2026-12-14
+  startTime: 13:00 GMT
+  endDate: 2026-12-01
+  endTime: 16:00 GMT
+  description: "The first Bioconductor into TeSS and Beyond meeting providing the launch of the project."
+  location: Zoom
