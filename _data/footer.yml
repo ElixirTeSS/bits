@@ -19,6 +19,6 @@ columns:
   - type: image
     image_width: 88px
     width: 2
-    src: 'assets/img/tess.svg'
+    src: 'assets/img/tess-dark.png'
     alt: ELIXIR TeSS logo
 

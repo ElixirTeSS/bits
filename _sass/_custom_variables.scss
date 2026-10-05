@@ -1,2 +1,18 @@
 // Find out which theme variables you can use to fine tune the styling of your website here: https://github.com/ELIXIR-Belgium/elixir-toolkit-theme/blob/main/_sass/_variables.scss
 // Copy paste theme here and change where necessary .
+
+/*-----Top navigation-----*/
+$topnav-bg: $dark;
+$topnav-title-color: $white;
+$topnav-link-color: $white;
+$topnav-link-color-active: $white;
+$topnav-link-bg-active: $primary;
+$topnav-break-color: rgba($white, 0.50);
+
+/*-----Footer-----*/
+$footer-bg: $dark;
+$footer-color: $white;
+$footer-link-color: $white;
+$footer-link-color-hover: $primary;
+$footer-copyright-bg: #00000033;
+$footer-ett: $white;
