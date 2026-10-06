@@ -2,7 +2,7 @@
 title: "Automating FAIR Training Metadata Pipelines: Bioconductor into TeSS and Beyond (BITS)"
 ---
 
-The [Institute for Research Software](/projects/ssi/) runs the [Research Software Maintenance Fund](https://www.software.ac.uk/research-software-maintenance-fund/rsmf-round-2-projects), supported by the UKRI Digital Research Infrastructure programme, offering £4.8 million to support and sustain key research software, ensuring it remains reliable and accessible. This initiative not only funds vital pieces of the research ecosystem but help us understand how we can effectively provide the support that research software needs to reduce technical debt and grow engagement. 
+The [Institute for Research Software](https://www.software.ac.uk/) runs the [Research Software Maintenance Fund](https://www.software.ac.uk/research-software-maintenance-fund/rsmf-round-2-projects), supported by the UKRI Digital Research Infrastructure programme, offering £4.8 million to support and sustain key research software, ensuring it remains reliable and accessible. This initiative not only funds vital pieces of the research ecosystem but help us understand how we can effectively provide the support that research software needs to reduce technical debt and grow engagement. 
 
 Round 2 awarded approximately £2.73 million to 19 projects assessed on their vision and potential impact, feasibility and approach, and capability to deliver. The portfolio spans research supported by all seven UK research councils and includes software written in languages such as Python, R, C++, Fortran, and JavaScript. 
 
