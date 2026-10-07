@@ -1,9 +1,12 @@
+title: Home
+# version: 2.0
+title_url:  /
 subitems:
-  - title: Home
-    url: /index
   - title: Events
+    icon: icon-calendars
     url: /events
   - title: News
+    icon: icon-newspaper
     url: /news
 
   
