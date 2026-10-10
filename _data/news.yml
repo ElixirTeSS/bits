@@ -1,6 +1,12 @@
+- name: Research Software Maintenance Fund successful projects announced
+  date: 2026-08-19
+  description: "The BITS project is one of the [19 successful applications](https://www.software.ac.uk/news/announcing-19-projects-funded-through-research-software-maintenance-fund-round-2) to the second round of the SSI Research Software Maintenance Fund"
 - name: Presentatation at ELIXIR-UK Training Club
   date: 2026-11-24
-  description: "The BITS project is presented to the training club of ELIXIR-UK"
+  description: "The BITS project is presented to the [training club of ELIXIR-UK](https://elixiruknode.org/activities/uk-training-club/)"
 - name: Project begins
   date: 2026-12-01
-  description: "The project officially launches"
+  description: "The project officially starts"
+- name: Kick-off meeting
+  date: 2026-12-14
+  description: "The project kick-off meeting, open invitation (see [Events page](/events))"

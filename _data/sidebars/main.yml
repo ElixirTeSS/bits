@@ -1,7 +1,9 @@
-title: Home
+title: Pages
 # version: 2.0
-title_url:  /
 subitems:
+  - title: Home
+    icon: icon-house
+    url: /
   - title: Events
     icon: icon-calendars
     url: /events
