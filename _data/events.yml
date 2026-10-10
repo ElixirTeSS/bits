@@ -1,7 +1,39 @@
-- name: BITS kick-off
+- name: BITS Kick-off Meeting
   startDate: 2026-12-14
   startTime: 13:00 GMT
-  endDate: 2026-12-01
+  endDate: 2026-12-14
   endTime: 16:00 GMT
-  description: "The first Bioconductor into TeSS and Beyond meeting providing the launch of the project."
+  description: |
+    The BITS (Bioconductor into TeSS and Beyond) project will automate the collection and publication of FAIR metadata about Bioconductor training resources in TeSS, reducing manual curation and improving the discoverability and reuse of training materials.
+
+    The kick-off meeting will bring together members of the Bioconductor training community, TeSS developers and curators, project partners, and others interested in FAIR training metadata, training catalogues and interoperability.
+
+    **What we'll cover**
+
+    - Introduction to the BITS project, goals and scope
+    - Challenges in discovering and aggregating Bioconductor training materials
+    - Demonstrations of existing infrastructure and workflows
+    - Planned technical interventions and project roadmap
+    - Timeline, milestones and community engagement opportunities
+    - Discussion and requirements gathering
+    - Opportunities for collaboration, testing and feedback
+
+    **Who should attend?**
+
+    - Bioconductor trainers, instructors and lesson developers
+    - TeSS and TeSSHub users and contributors
+    - ELIXIR training and community coordinators
+    - People working on FAIR training metadata, Bioschemas and training catalogues
+    - Research software and training infrastructure developers
+    - Anyone interested in improving the discoverability and reuse of training materials
+
+    **Why attend?**
+
+    Participants will have an opportunity to:
+
+    - Learn about the project and its planned outputs
+    - Help shape requirements and priorities
+    - Share challenges and use cases from their own communities
+    - Identify opportunities for collaboration, testing and feedback
+    - Contribute ideas for future community activities, including hackathon-style events
   location: Zoom
